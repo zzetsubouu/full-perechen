@@ -1,0 +1,7 @@
+E:\Мой код\Информатика\Full Perechen\Full Perechen\obj\Debug\Full Perechen.csproj.AssemblyReference.cache
+E:\Мой код\Информатика\Full Perechen\Full Perechen\obj\Debug\Full Perechen.csproj.CoreCompileInputs.cache
+E:\Мой код\Информатика\Full Perechen\Full Perechen\bin\Debug\Full Perechen.exe.config
+E:\Мой код\Информатика\Full Perechen\Full Perechen\bin\Debug\Full Perechen.exe
+E:\Мой код\Информатика\Full Perechen\Full Perechen\bin\Debug\Full Perechen.pdb
+E:\Мой код\Информатика\Full Perechen\Full Perechen\obj\Debug\Full Perechen.exe
+E:\Мой код\Информатика\Full Perechen\Full Perechen\obj\Debug\Full Perechen.pdb
